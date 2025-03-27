@@ -1,3 +1,7 @@
+#GROUP 9
+#DATE: 27-03-2025
+#ROLL NO. :09
+#PYTHON PROJECT 2
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
