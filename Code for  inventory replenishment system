@@ -2,6 +2,13 @@
 #DATE: 27-03-2025
 #ROLL NO. :09
 #PYTHON PROJECT 2
+
+#Inventory Replenishment System: Create a Python script that monitors 
+#inventory levels of products in a shop and generates replenishment orders when stock levels 
+#fall below predefined thresholds. The script should analyze sales data to predict future demand 
+#and adjust reorder points accordingly. Implement functionality to send automated restock 
+#alerts to suppliers and track the status of replenishment orders.
+
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
